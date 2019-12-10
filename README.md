@@ -21,7 +21,7 @@ Presented on 12 and 17 December 2019
 
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
-|1 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
+|1 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo)s, [Website](Link_to_Website) |
 |2 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |3 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |4 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
