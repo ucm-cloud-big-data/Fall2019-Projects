@@ -27,7 +27,8 @@ Presented on 12 and 17 December 2019
 |4 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |5 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |6 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
-|7 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
+|7 | Cloud-Based Machine-Learning Analysis of Previous and Hypothetical Armed Conflicts | Diego Isar Muñoz,
+Álvaro David Ortiz Marchut, Ricardo Rodrigo Ruíz,Jin Wang Xu,Carlos Bilbao Muñoz | [GitHub](https://github.com/Zildj1an/C.L.O.B.A.M.A), [Website](https://clobama.yolasite.com/) |
 |8 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |9 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |10| Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
