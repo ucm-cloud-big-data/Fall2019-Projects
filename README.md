@@ -28,6 +28,6 @@ Presented on 12 and 17 December 2019
 |5 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |6 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |7 | Cloud-Based Machine-Learning Analysis of Previous and Hypothetical Armed Conflicts | Diego Isar Muñoz,Álvaro David Ortiz Marchut, Ricardo Rodrigo Ruíz,Jin Wang Xu,Carlos Bilbao Muñoz | [GitHub](https://github.com/Zildj1an/C.L.O.B.A.M.A), [Website](https://clobama.yolasite.com/) |
-|8 | Análisis de seismos para la Viking II | Miguel Ángel Castillo Moreno, Jorge García Cerros, Garbiel García García | [GitHub](https://github.com/gabgarar/NASA---Mision-Vikings), [Website](https://github.com/gabgarar/NASA---Mision-Vikings/blob/master/README.md) |
+|8 | Análisis de seismos para la Viking II | Miguel Ángel Castillo Moreno, Jorge García Cerros, Garbiel García García | [GitHub](https://github.com/gabgarar/NASA---Mision-Vikings), [Website](https://gabgarar.github.io/NASA---Mision-Vikings/) |
 |9 | Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
 |10| Your Title | Student1, Student2, Student3, Student4, Student5 | [GitHub](Link_to_GitHub_repo), [Website](Link_to_Website) |
